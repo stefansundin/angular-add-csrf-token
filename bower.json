@@ -1,0 +1,25 @@
+{
+  "name": "angular-add-csrf-token",
+  "version": "0.0.1",
+  "authors": [
+    "Stefan Sundin <stefan@stefansundin.com>"
+  ],
+  "description": "Makes it easy to add csrf-token (authenticity_token) to forms that submit like normal forms. Useful for templates where you can't use erb.",
+  "main": "index.js",
+  "keywords": [
+    "angular",
+    "form",
+    "csrf",
+    "token",
+    "authenticity_token"
+  ],
+  "license": "GPLv3",
+  "ignore": [
+    "index.coffee",
+    "compile.sh"
+  ],
+  "dependencies": {
+    "angular": ">=1.2.0",
+    "jquery": ">=1.9.1"
+  }
+}
