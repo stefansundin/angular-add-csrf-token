@@ -5,7 +5,7 @@ If you use angular and templates with forms that need csrf tokens, this directiv
 
 Install with bower:
 ```bash
-bower install git://github.com/stefansundin/angular-add-csrf-token.git --save
+bower install angular-add-csrf-token --save
 ```
 
 Add to your `app.coffee`:
