@@ -1,6 +1,5 @@
 {
   "name": "angular-add-csrf-token",
-  "version": "0.0.1",
   "authors": [
     "Stefan Sundin <stefan@stefansundin.com>"
   ],
@@ -13,7 +12,7 @@
     "token",
     "authenticity_token"
   ],
-  "license": "GPLv3",
+  "license": "GPL-3.0+",
   "ignore": [
     "index.coffee",
     "compile.sh"
